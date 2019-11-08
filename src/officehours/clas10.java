@@ -11,7 +11,7 @@ public class clas10 {
 //        System.out.println(strArr[i]);
 //    }
 
-        int numbers[] = {-10, 24,50,-88,106};
+        int numbers[] = {-10, 24,50,-88,106, 45};
         int max = numbers[0];
         int min = numbers[0];
         for (int i=1;i<numbers.length; i++){
